@@ -1,6 +1,0 @@
-#Adding a new page to your webapp
-1. Create an entry in the urls file
-2. Create a corresponding fucntion in the view file
-3. Create the associated template in the MainApp folder where we created the base and the index
-
-#
